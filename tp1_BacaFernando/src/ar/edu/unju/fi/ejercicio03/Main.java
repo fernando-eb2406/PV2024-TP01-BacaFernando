@@ -11,7 +11,7 @@ public class Main {
 		Integer numero = scanner.nextInt();
 		scanner.close();
 		
-		if (numero % 2 != 0	) {
+		if (numero % 2 != 0) {
 			Integer dobleDeNumero = numero * 2;
 			System.out.println("El doble del número ingresado es: " + dobleDeNumero);
 		} else {
