@@ -3,8 +3,7 @@ package ar.edu.unju.fi.ejercicio01;
 public class Main {
 	
 	public static void main(String[] args) {
-		
-		//Declarar y asignar valores a cinco variables	
+		//Declarar y asignar valores a cinco variables
 		int num1 = 8;
 	    int num2 = 5;
 	    int num3 = 1;
